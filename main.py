@@ -6,7 +6,6 @@ import os
 import pprint
 
 BILLBOARD_URL = "https://www.billboard.com/charts/hot-100/"
-birdy_uri = 'spotify:artist:2WX2uTcsvV5OnS0inACecP'
 
 # Getting Hot 100 songs from bilboard.com for given date in the past
 date_to_travel = input("Which year do you want to travel to? Type the date in this format YYYY-MM-DD:")
